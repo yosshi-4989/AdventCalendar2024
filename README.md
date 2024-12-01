@@ -7,7 +7,7 @@
 
 | 日付 | 問題 | リンク |
 |------|-----|--------|
-| 12/01 | [ABC329 F](https://atcoder.jp/contests/abc329/tasks/abc329_f)                 | |
+| 12/01 | [ABC329 F](https://atcoder.jp/contests/abc329/tasks/abc329_f)                 | [ABC329 Fの解法メモ【Ruby】](https://qiita.com/yosshi-4989/items/b1c835e16694e37e1a38) |
 | 12/02 | [ABC157 D](https://atcoder.jp/contests/abc157/tasks/abc157_d)                 | |
 | 12/03 | [ABC262 D](https://atcoder.jp/contests/abc262/tasks/abc262_d)                 | |
 | 12/04 | [ABC361 E](https://atcoder.jp/contests/abc361/tasks/abc361_e)                 | |
