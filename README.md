@@ -8,8 +8,8 @@
 | 日付 | 問題 | リンク |
 |------|-----|--------|
 | 12/01 | [ABC329 F](https://atcoder.jp/contests/abc329/tasks/abc329_f)                 | [ABC329 Fの解法メモ【Ruby】](https://qiita.com/yosshi-4989/items/b1c835e16694e37e1a38) |
-| 12/02 | [ABC157 D](https://atcoder.jp/contests/abc157/tasks/abc157_d)                 | |
-| 12/03 | [ABC262 D](https://atcoder.jp/contests/abc262/tasks/abc262_d)                 | |
+| 12/02 | [ABC157 D](https://atcoder.jp/contests/abc157/tasks/abc157_d)                 | [ABC157 Dの解法メモ【Ruby】](https://qiita.com/yosshi-4989/items/ce41a416bb4362e3d5f7) |
+| 12/03 | [ABC262 D](https://atcoder.jp/contests/abc262/tasks/abc262_d)                 | [ABC262 Dの解法メモ【Ruby】](https://qiita.com/yosshi-4989/items/c2104f09d419e380e7da) |
 | 12/04 | [ABC361 E](https://atcoder.jp/contests/abc361/tasks/abc361_e)                 | |
 | 12/05 | [ABC198 D](https://atcoder.jp/contests/abc198/tasks/abc198_d)                 | |
 | 12/06 | [ABC256 E](https://atcoder.jp/contests/abc256/tasks/abc256_e)                 | |
