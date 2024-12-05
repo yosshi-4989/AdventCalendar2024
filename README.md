@@ -10,8 +10,8 @@
 | 12/01 | [ABC329 F](https://atcoder.jp/contests/abc329/tasks/abc329_f)                 | [ABC329 Fの解法メモ【Ruby】](https://qiita.com/yosshi-4989/items/b1c835e16694e37e1a38) |
 | 12/02 | [ABC157 D](https://atcoder.jp/contests/abc157/tasks/abc157_d)                 | [ABC157 Dの解法メモ【Ruby】](https://qiita.com/yosshi-4989/items/ce41a416bb4362e3d5f7) |
 | 12/03 | [ABC262 D](https://atcoder.jp/contests/abc262/tasks/abc262_d)                 | [ABC262 Dの解法メモ【Ruby】](https://qiita.com/yosshi-4989/items/c2104f09d419e380e7da) |
-| 12/04 | [ABC361 E](https://atcoder.jp/contests/abc361/tasks/abc361_e)                 | |
-| 12/05 | [ABC198 D](https://atcoder.jp/contests/abc198/tasks/abc198_d)                 | |
+| 12/04 | [ABC361 E](https://atcoder.jp/contests/abc361/tasks/abc361_e)                 | [ABC361 Eの解法メモ【Ruby】](https://qiita.com/yosshi-4989/items/5759cc45da3c0330cf34) |
+| 12/05 | [ABC198 D](https://atcoder.jp/contests/abc198/tasks/abc198_d)                 | [ABC198 Dの解法メモ【Ruby】](https://qiita.com/yosshi-4989/items/f21cbaa1f6575a88d661) |
 | 12/06 | [ABC256 E](https://atcoder.jp/contests/abc256/tasks/abc256_e)                 | |
 | 12/07 | [ABC251 E](https://atcoder.jp/contests/abc251/tasks/abc251_e)                 | |
 | 12/08 | [ABC176 D](https://atcoder.jp/contests/abc176/tasks/abc176_d)                 | |
